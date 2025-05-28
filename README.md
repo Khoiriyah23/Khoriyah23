@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi, I'm Mustopha Olona — a passionate Software Engineer with a flair for solving real-world problems through clean, efficient code and strategic content creation<br>I specialize in MERN Stack development, and I've built projects ranging from emergency response platforms to full-stack business solutions.<br>Current Focus:<br><br>Building scalable web apps<br><br>Improving UI/UX experience with React<br><br>Automating content workflows<br><br>Exploring bioinformatics (curious intersection of botany + tech)
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Imran Olona Mustapha ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mionova01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mustapha Imran Olona ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mio_nova01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MIO__Nova01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@MIO_nova) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:verstech73@gmail.com) 
 
